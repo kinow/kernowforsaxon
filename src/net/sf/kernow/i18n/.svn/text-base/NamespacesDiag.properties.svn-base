@@ -1,0 +1,19 @@
+# Sample ResourceBundle properties file
+
+_is_empty= is empty
+
+Error\!_The_prefix_or_namespace_URI_in_row_=Error\! The prefix or namespace URI in row 
+
+_is_already_defined= is already defined
+
+Error\!_The_prefix_in_row_=Error\! The prefix in row 
+
+Add_Binding=Add Binding
+
+Delete_Binding=Delete Binding
+
+Save_and_Close=Save and Close
+
+Namespace_bindings=Namespace bindings
+
+Namespace_Bindings_for_the_XQuery_Sandbox=Namespace Bindings for the XQuery Sandbox

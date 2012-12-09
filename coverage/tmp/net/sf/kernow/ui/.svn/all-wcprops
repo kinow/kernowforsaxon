@@ -1,0 +1,305 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/kernowforsaxon/!svn/ver/444/kernow/trunk/src/net/sf/kernow/ui
+END
+TabDirectory.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/kernowforsaxon/!svn/ver/424/kernow/trunk/src/net/sf/kernow/ui/TabDirectory.java
+END
+TabAnt.form
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/kernowforsaxon/!svn/ver/303/kernow/trunk/src/net/sf/kernow/ui/TabAnt.form
+END
+Options.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/kernowforsaxon/!svn/ver/440/kernow/trunk/src/net/sf/kernow/ui/Options.java
+END
+About.form
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/kernowforsaxon/!svn/ver/440/kernow/trunk/src/net/sf/kernow/ui/About.form
+END
+Donate.form
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/kernowforsaxon/!svn/ver/256/kernow/trunk/src/net/sf/kernow/ui/Donate.form
+END
+Purchase.form
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/kernowforsaxon/!svn/ver/443/kernow/trunk/src/net/sf/kernow/ui/Purchase.form
+END
+MouseListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/kernowforsaxon/!svn/ver/256/kernow/trunk/src/net/sf/kernow/ui/MouseListener.java
+END
+TabbedView.form
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/kernowforsaxon/!svn/ver/439/kernow/trunk/src/net/sf/kernow/ui/TabbedView.form
+END
+TabStandalone.form
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/kernowforsaxon/!svn/ver/424/kernow/trunk/src/net/sf/kernow/ui/TabStandalone.form
+END
+XMLSchemaEditorMouseAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/kernowforsaxon/!svn/ver/436/kernow/trunk/src/net/sf/kernow/ui/XMLSchemaEditorMouseAdapter.java
+END
+SchemaAwareDiag.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/kernowforsaxon/!svn/ver/412/kernow/trunk/src/net/sf/kernow/ui/SchemaAwareDiag.java
+END
+Tab.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/kernowforsaxon/!svn/ver/292/kernow/trunk/src/net/sf/kernow/ui/Tab.java
+END
+XMLSandboxTab.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/kernowforsaxon/!svn/ver/368/kernow/trunk/src/net/sf/kernow/ui/XMLSandboxTab.java
+END
+TabSingleFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/kernowforsaxon/!svn/ver/436/kernow/trunk/src/net/sf/kernow/ui/TabSingleFile.java
+END
+Oxygen.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/kernowforsaxon/!svn/ver/426/kernow/trunk/src/net/sf/kernow/ui/Oxygen.java
+END
+TextAreaWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/kernowforsaxon/!svn/ver/256/kernow/trunk/src/net/sf/kernow/ui/TextAreaWriter.java
+END
+Switches.form
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/kernowforsaxon/!svn/ver/426/kernow/trunk/src/net/sf/kernow/ui/Switches.form
+END
+XSLTEditorMouseAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/kernowforsaxon/!svn/ver/435/kernow/trunk/src/net/sf/kernow/ui/XSLTEditorMouseAdapter.java
+END
+TabSchematron.form
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/kernowforsaxon/!svn/ver/424/kernow/trunk/src/net/sf/kernow/ui/TabSchematron.form
+END
+TabDirectory.form
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/kernowforsaxon/!svn/ver/303/kernow/trunk/src/net/sf/kernow/ui/TabDirectory.form
+END
+Options.form
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/kernowforsaxon/!svn/ver/440/kernow/trunk/src/net/sf/kernow/ui/Options.form
+END
+TabValidation.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/kernowforsaxon/!svn/ver/303/kernow/trunk/src/net/sf/kernow/ui/TabValidation.java
+END
+SchemaAwareDiag.form
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/kernowforsaxon/!svn/ver/412/kernow/trunk/src/net/sf/kernow/ui/SchemaAwareDiag.form
+END
+TabXMLSchemaSandbox.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/kernowforsaxon/!svn/ver/440/kernow/trunk/src/net/sf/kernow/ui/TabXMLSchemaSandbox.java
+END
+TabSingleFile.form
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/kernowforsaxon/!svn/ver/436/kernow/trunk/src/net/sf/kernow/ui/TabSingleFile.form
+END
+Oxygen.form
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/kernowforsaxon/!svn/ver/426/kernow/trunk/src/net/sf/kernow/ui/Oxygen.form
+END
+EditorMouseAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/kernowforsaxon/!svn/ver/436/kernow/trunk/src/net/sf/kernow/ui/EditorMouseAdapter.java
+END
+TabXSLTSandbox.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/kernowforsaxon/!svn/ver/440/kernow/trunk/src/net/sf/kernow/ui/TabXSLTSandbox.java
+END
+TabValidation.form
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/kernowforsaxon/!svn/ver/303/kernow/trunk/src/net/sf/kernow/ui/TabValidation.form
+END
+TabXQuerySandbox.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/kernowforsaxon/!svn/ver/440/kernow/trunk/src/net/sf/kernow/ui/TabXQuerySandbox.java
+END
+NamespacesDiag.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/kernowforsaxon/!svn/ver/424/kernow/trunk/src/net/sf/kernow/ui/NamespacesDiag.java
+END
+Saxonica.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/kernowforsaxon/!svn/ver/412/kernow/trunk/src/net/sf/kernow/ui/Saxonica.java
+END
+TabbedViewComponentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/kernowforsaxon/!svn/ver/256/kernow/trunk/src/net/sf/kernow/ui/TabbedViewComponentListener.java
+END
+TextAreaPrintStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/kernowforsaxon/!svn/ver/426/kernow/trunk/src/net/sf/kernow/ui/TextAreaPrintStream.java
+END
+ParamsDiag.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/kernowforsaxon/!svn/ver/412/kernow/trunk/src/net/sf/kernow/ui/ParamsDiag.java
+END
+TabAnt.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/kernowforsaxon/!svn/ver/440/kernow/trunk/src/net/sf/kernow/ui/TabAnt.java
+END
+TabXMLSchemaSandbox.form
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/kernowforsaxon/!svn/ver/440/kernow/trunk/src/net/sf/kernow/ui/TabXMLSchemaSandbox.form
+END
+Purchase.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/kernowforsaxon/!svn/ver/443/kernow/trunk/src/net/sf/kernow/ui/Purchase.java
+END
+About.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/kernowforsaxon/!svn/ver/444/kernow/trunk/src/net/sf/kernow/ui/About.java
+END
+Donate.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/kernowforsaxon/!svn/ver/256/kernow/trunk/src/net/sf/kernow/ui/Donate.java
+END
+TabbedView.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/kernowforsaxon/!svn/ver/439/kernow/trunk/src/net/sf/kernow/ui/TabbedView.java
+END
+TabStandalone.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/kernowforsaxon/!svn/ver/426/kernow/trunk/src/net/sf/kernow/ui/TabStandalone.java
+END
+TabXSLTSandbox.form
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/kernowforsaxon/!svn/ver/436/kernow/trunk/src/net/sf/kernow/ui/TabXSLTSandbox.form
+END
+CustomMouseAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/kernowforsaxon/!svn/ver/338/kernow/trunk/src/net/sf/kernow/ui/CustomMouseAdapter.java
+END
+TabXQuerySandbox.form
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/kernowforsaxon/!svn/ver/436/kernow/trunk/src/net/sf/kernow/ui/TabXQuerySandbox.form
+END
+NamespacesDiag.form
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/kernowforsaxon/!svn/ver/256/kernow/trunk/src/net/sf/kernow/ui/NamespacesDiag.form
+END
+Saxonica.form
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/kernowforsaxon/!svn/ver/424/kernow/trunk/src/net/sf/kernow/ui/Saxonica.form
+END
+Switches.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/kernowforsaxon/!svn/ver/426/kernow/trunk/src/net/sf/kernow/ui/Switches.java
+END
+TabSchematron.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/kernowforsaxon/!svn/ver/424/kernow/trunk/src/net/sf/kernow/ui/TabSchematron.java
+END
+ParamsDiag.form
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/kernowforsaxon/!svn/ver/412/kernow/trunk/src/net/sf/kernow/ui/ParamsDiag.form
+END

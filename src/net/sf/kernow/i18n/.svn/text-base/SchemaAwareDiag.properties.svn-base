@@ -1,0 +1,28 @@
+Configure_Schema_Aware=Configure Schema Aware
+
+Result_document_validation=Result document validation
+
+(validation_errors_are_reported_after_processing_has_completed)=(validation errors are reported after processing has completed)
+
+(validate_source_documents)=(validate source documents)
+(validate_source_documents_if_a_definition_is_found)=(validate elements only if an element definition is found)
+
+(don't_validate_source_documents)=(don't validate source documents)
+
+(enabled_by_default_when_SaxonSA_is_detected,_uncheck_to_use_Saxon_Basic)=(enabled by default when SaxonSA is detected, uncheck to use Saxon Basic)
+
+Source_document_validation=Source document validation
+
+Treat_fatal_validation_errors_as_warnings=Treat fatal validation errors as warnings
+
+Strict_validation=Strict validation
+
+Lax_validation=Lax validation
+
+Skip_validation=Skip validation
+
+Use_Schema_Aware_Saxon=Use Schema Aware Saxon
+
+Done=Done
+Schema_Aware=Schema Aware
+SchemaAwareDiag.jPanel1.border.title=Configure Schema Aware

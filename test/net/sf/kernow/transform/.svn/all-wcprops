@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/kernowforsaxon/!svn/ver/424/kernow/trunk/test/net/sf/kernow/transform
+END
+SingleFileTransformerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/kernowforsaxon/!svn/ver/421/kernow/trunk/test/net/sf/kernow/transform/SingleFileTransformerTest.java
+END
+DirectoryTransformerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/kernowforsaxon/!svn/ver/273/kernow/trunk/test/net/sf/kernow/transform/DirectoryTransformerTest.java
+END
+CustomEntityResolverTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/kernowforsaxon/!svn/ver/423/kernow/trunk/test/net/sf/kernow/transform/CustomEntityResolverTest.java
+END
+CustomURIResolverTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/kernowforsaxon/!svn/ver/424/kernow/trunk/test/net/sf/kernow/transform/CustomURIResolverTest.java
+END

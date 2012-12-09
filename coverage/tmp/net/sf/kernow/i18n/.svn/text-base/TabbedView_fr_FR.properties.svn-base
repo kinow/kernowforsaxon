@@ -1,0 +1,143 @@
+# Sample ResourceBundle properties file
+
+Single_File=Fichier unique
+
+Directory=R\u00E9pertoire
+
+Standalone=Standalone
+
+Validation=Validation
+
+XQuery_Sandbox=Bac \u00E0 sable XQuery
+
+[_Enter_query_here_]=[ Saisissez votre expression ici ]
+
+Cancelled.=Annul\u00E9.
+
+\\nOperation_cancelled_by_user.\\n=\\nOp\u00E9ration annul\u00E9e par l'utilisateur.\\n
+
+Please_select_an_output_directory=S\u00E9lectionnez un r\u00E9pertoire de sortie, svp
+
+Please_select_a_stylesheet=S\u00E9lectionnez une feuille de style, svp
+
+Please_select_a_source_XML_directory=S\u00E9lectionnez un r\u00E9pertoire source XML
+
+No_named_templates_found\!=Aucun template nomm\u00E9 n'a \u00E9t\u00E9 trouv\u00E9\!
+
+Error\!=Erreur\!
+
+\\nInitial_template_not_set\!\\n=\\nL'initial template n'a pas \u00E9t\u00E9 sp\u00E9cifi\u00E9\!\\n
+
+Please_select_an_XML_Schema_/_Relax_NG_schema_to_check=S\u00E9lectionnez un sch\u00E9ma XML Schema ou Relax NG \u00E0 v\u00E9rifier, svp
+
+Starting_directory_validate...=D\u00E9marrage de la validation de r\u00E9pertoire...
+
+Please_select_a_schema_to_validate_the_XML_file_against=S\u00E9lectionnez un sch\u00E9ma pour valider le document XML, svp
+
+Please_select_an_XML_file_or_directory_to_validate=S\u00E9lectionnez un document XML ou un r\u00E9pertoire \u00E0 valider, svp
+
+Working...=En cours...
+
+Target_not_set\!=Target non sp\u00E9cifi\u00E9e\!
+
+Buildfile_not_set\!=Buildfile non sp\u00E9cifi\u00E9\!
+
+XQuery_Sandbox=Bac \u00E0 sable XQuery
+
+About_Kernow=\u00C0 propos de Kernow
+
+Support_Kernow=Supportez Kernow
+
+Show_Help=Voir l'aide
+
+Help=Aide
+
+Configure_Schema_Aware=Configurer Schema Aware
+
+Get_Schema_Aware=Obtenir Saxon Schema Aware
+
+Schema_Aware=Schema Aware
+
+Options=Options
+
+Set_Saxon_Switches=Fixer les options Saxon
+
+Configuration=Configuration
+
+Exit=Sortir
+
+File=Fichier
+
+Clear=Nettoyer
+
+Kernow=Kernow
+
+Cancel_the_current_running_transformation=Annuler la transformation actuellement en cours
+
+Cancel=Annuler
+
+Message_Level=Niveau de message
+
+Properties=Propri\u00E9t\u00E9s
+
+Target=Target
+
+Ant_buildfile=Buildfile Ant
+
+Batch=Batch
+
+Namespaces=Espaces de noms
+
+Execute_Query=Ex\u00E9cuter l'expression
+
+[type_query_here]=[saisissez l'expression ici]
+
+Report_failures_only=Rapporter seulement les \u00E9checs
+
+Input_is_a_directory=L'entr\u00E9e est un r\u00E9pertoire
+
+Check_Schema=V\u00E9rifier le sch\u00E9ma
+
+Validate=Valider
+
+XML_Schema=XML Schema
+
+XML_File(s)=Fichier(s) XML
+
+XML_Schema_Validation=Validation XML Schema
+
+Auto-populate_the_available_initial_templates=Peupler automatiquement les initial templates disponibles
+
+auto=auto
+
+Output=Sortie
+
+Initial_Template_(XSLT_only)\:=Initial template (sulement XSLT)\:
+
+XSLT/_XQuery=XSLT/ XQuery
+
+Standalone_XSLT_/_XQuery=XSLT / XQuery standalone
+
+Stop_when_an_error_occurs=Arr\u00EAter d\u00E8s qu'une erreur survient
+
+Recurse_subdirectories=Passer r\u00E9cursivement \u00E0 travers les sous-r\u00E9pertoires
+
+Directory_Transformation=Transformation de r\u00E9pertoire
+
+Output_Folder=R\u00E9pertoire de sortie
+
+Input_Folder=R\u00E9pertoire d'entr\u00E9e
+
+Send_output_to_file=Envoyer la sortie vers un fichier
+
+Params=Param\u00E8tres
+
+Single_File_Transformation=Transformation d'un unique fichier
+
+XML_File=Fichier XML
+
+Run=D\u00E9marrer
+
+OutputFile=Fichier de sortie
+
+Stylesheet=Feuille de style

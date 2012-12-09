@@ -1,0 +1,19 @@
+# Sample ResourceBundle properties file
+
+Cut=Couper
+
+Clear=Nettoyer
+
+Remove_All=Supprimer tout
+
+Remove=Supprimer
+
+Select_All=S\u00E9lectionner tout
+
+Paste=Coller
+
+Copy=Copier
+
+Insert=Ins\u00E9rer
+
+Format_XML=Formater XML

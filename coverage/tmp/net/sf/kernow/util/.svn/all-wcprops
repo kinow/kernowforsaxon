@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/kernowforsaxon/!svn/ver/439/kernow/trunk/src/net/sf/kernow/util
+END
+PropertyManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/kernowforsaxon/!svn/ver/431/kernow/trunk/src/net/sf/kernow/util/PropertyManager.java
+END
+Timer.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/kernowforsaxon/!svn/ver/256/kernow/trunk/src/net/sf/kernow/util/Timer.java
+END
+FileListBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/kernowforsaxon/!svn/ver/256/kernow/trunk/src/net/sf/kernow/util/FileListBuilder.java
+END
+XMLFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/kernowforsaxon/!svn/ver/435/kernow/trunk/src/net/sf/kernow/util/XMLFormatter.java
+END
+CommandLineParamParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/kernowforsaxon/!svn/ver/256/kernow/trunk/src/net/sf/kernow/util/CommandLineParamParser.java
+END
+AntTargetExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/kernowforsaxon/!svn/ver/256/kernow/trunk/src/net/sf/kernow/util/AntTargetExtractor.java
+END
+IOUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/kernowforsaxon/!svn/ver/424/kernow/trunk/src/net/sf/kernow/util/IOUtils.java
+END
+AverageTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/kernowforsaxon/!svn/ver/256/kernow/trunk/src/net/sf/kernow/util/AverageTime.java
+END
+AntPropertiesExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/kernowforsaxon/!svn/ver/256/kernow/trunk/src/net/sf/kernow/util/AntPropertiesExtractor.java
+END
+PercentHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/kernowforsaxon/!svn/ver/256/kernow/trunk/src/net/sf/kernow/util/PercentHelper.java
+END
+BrowserLauncher.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/kernowforsaxon/!svn/ver/286/kernow/trunk/src/net/sf/kernow/util/BrowserLauncher.java
+END
+Cleaner.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/kernowforsaxon/!svn/ver/424/kernow/trunk/src/net/sf/kernow/util/Cleaner.java
+END
+ParameterExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/kernowforsaxon/!svn/ver/427/kernow/trunk/src/net/sf/kernow/util/ParameterExtractor.java
+END
+NamedTemplateExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/kernowforsaxon/!svn/ver/427/kernow/trunk/src/net/sf/kernow/util/NamedTemplateExtractor.java
+END
+FileUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/kernowforsaxon/!svn/ver/439/kernow/trunk/src/net/sf/kernow/util/FileUtil.java
+END

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.5+" codebase="http://kernowforsaxon.sourceforge.net/jws" href="Kernow.jnlp">
+    <information>
+        <title>Kernow</title>
+        <vendor>Andrew Welch</vendor>
+        <description>Kernow - A GUI and high level API for Saxon</description>
+        <description kind="short">Kernow</description>
+        <homepage href="http://kernowforsaxon.sf.net/"/>
+        <icon href="Kernow-Icon.gif" kind="default"/>
+        <icon href="Kernow-Splash-Screen.gif" kind="splash"/>
+        <offline-allowed/>
+        <shortcut online="true">
+            <desktop/>    
+            <menu submenu="Kernow"/>
+        </shortcut>
+    </information>
+    <security>
+        <all-permissions/>
+    </security>
+    <resources>
+        <j2se version="1.6+" java-wm-args="-Dkernow.config=C:\kernow\kernow.config"/>
+        <jar href="kernow.jar" main="true" download="eager"/>
+        <jar href="lib/ant-launcher.jar" download="lazy"/>
+        <jar href="lib/ant.jar" download="lazy"/>
+        <jar href="lib/bounce.jar" download="eager"/>
+        <jar href="lib/saxon8-dom.jar" download="eager"/>
+        <jar href="lib/saxon8.jar" download="eager"/>
+        <jar href="lib/swing-layout-1.0.2.jar" download="eager"/>
+        <extension name="eXist extension" href="eXist_ext.jnlp"/>
+        <property name="kernow.config" value="kernow.config"/>
+    </resources>
+    <application-desc main-class="net.sf.kernow.GUI">
+    </application-desc>
+</jnlp>

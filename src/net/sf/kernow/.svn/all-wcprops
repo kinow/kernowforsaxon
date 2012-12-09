@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/kernowforsaxon/!svn/ver/445/kernow/trunk/src/net/sf/kernow
+END
+SingleFileTransform.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/kernowforsaxon/!svn/ver/436/kernow/trunk/src/net/sf/kernow/SingleFileTransform.java
+END
+DirectoryTransform.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/kernowforsaxon/!svn/ver/438/kernow/trunk/src/net/sf/kernow/DirectoryTransform.java
+END
+Status.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/kernowforsaxon/!svn/ver/431/kernow/trunk/src/net/sf/kernow/Status.java
+END
+TransformObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/kernowforsaxon/!svn/ver/256/kernow/trunk/src/net/sf/kernow/TransformObserver.java
+END
+GUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/kernowforsaxon/!svn/ver/431/kernow/trunk/src/net/sf/kernow/GUI.java
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/kernowforsaxon/!svn/ver/426/kernow/trunk/src/net/sf/kernow/Message.java
+END
+StandaloneTransform.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/kernowforsaxon/!svn/ver/423/kernow/trunk/src/net/sf/kernow/StandaloneTransform.java
+END
+Config.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/kernowforsaxon/!svn/ver/440/kernow/trunk/src/net/sf/kernow/Config.java
+END
+Kernow.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/kernowforsaxon/!svn/ver/424/kernow/trunk/src/net/sf/kernow/Kernow.java
+END
+OpManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/kernowforsaxon/!svn/ver/445/kernow/trunk/src/net/sf/kernow/OpManager.java
+END

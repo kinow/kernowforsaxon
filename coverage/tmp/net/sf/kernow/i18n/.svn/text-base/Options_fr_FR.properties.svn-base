@@ -1,0 +1,56 @@
+Done=Fini
+
+times=fois
+
+Ignore_the_first=Ignorer le(s) premier(s)
+
+Single_File_and_Standalone_transforms_only=Transformations fichier unique et Standalone uniquement
+
+Number_of_times_to_repeat_transform=Nombre de fois \u00e0 r\u00e9p\u00e9ter la transformation
+
+Perform_Average_Timing=Mesurer le temps moyen
+
+Select_the_ones_to_clear,_then_click_\"Clear\"=S\u00e9lectionner ceux \u00e0 purger, puis cliquer \"Purger\"
+
+Clear_batch_history=Purger l'historique batch
+
+Clear=Purger
+
+Clear_single_file_history=Purger l'historique \u00e0 fichier unique
+
+Clear_directory_file_history=Purger l'historique de r\u00e9pertoire
+
+Clear_standalone_file_history=Purger l'historique Standalone
+
+Clear_schema_file_history=Purger l'historique des sch\u00e9mas
+
+Set_the_number_of_threads_to_use_for_directory_transforms.=Fixer le nombre de threads \u00e0 utiliser pour les transformations de r\u00e9pertoire
+
+Size_of_thread_pool\:_=Taille du stock de threads\: 
+
+(Saxon_is_only_available_when_Saxon-SA_is_detected)=(Saxon est uniquement disponible lorsque Saxon-SA est d\u00e9tect\u00e9)
+
+Xerces=Xerces
+
+Use_this_XML_Schema_processor_(for_the_Validation_tab)\:=Utiliser ce processeur XML Schema (pour le tab validation)\:
+
+Saxon=Saxon
+
+(Resolvers_will_look_in_here_first)=(Les resolvers chercherons d'abord ici)
+
+Local_cache=Cache local
+
+Suppress_caching_messages=Supprimer les messages du cache
+
+Use_caching_EntityResolver_for_collection()_function=Utiliser l'EntityResolver qui utilise le cache pour la fonction collection()
+
+Use_caching_EntityResolver=Utiliser l'EntityResolver qui utilise le cache
+
+Use_caching_URIResolver=Utiliser l'URIResolver qui utilise le cache
+
+Use_this_suffix_for_directory_transform_output_files=Utiliser ce suffixe pour les fichiers de sortie des transformations de r\u00e9pertoire
+
+Allowed_input_suffixes_for_directory_operations\:=Suffixes permits pour les entr\u00e9s dans les op\u00e9rations de r\u00e9pertoire\:
+
+Clean_output_files_before_transforms=Supprimer les fichiers de sortie avant les transformations
+Options.jLabel16.text=(Les resolvers chercherons d'abord ici)

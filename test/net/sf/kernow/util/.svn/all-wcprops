@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/kernowforsaxon/!svn/ver/439/kernow/trunk/test/net/sf/kernow/util
+END
+CommandLineParamParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/kernowforsaxon/!svn/ver/273/kernow/trunk/test/net/sf/kernow/util/CommandLineParamParserTest.java
+END
+AverageTimeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/kernowforsaxon/!svn/ver/424/kernow/trunk/test/net/sf/kernow/util/AverageTimeTest.java
+END
+ParameterExtractorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/kernowforsaxon/!svn/ver/273/kernow/trunk/test/net/sf/kernow/util/ParameterExtractorTest.java
+END
+FileUtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/kernowforsaxon/!svn/ver/439/kernow/trunk/test/net/sf/kernow/util/FileUtilTest.java
+END
+PercentHelperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/kernowforsaxon/!svn/ver/273/kernow/trunk/test/net/sf/kernow/util/PercentHelperTest.java
+END
+TimerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/kernowforsaxon/!svn/ver/273/kernow/trunk/test/net/sf/kernow/util/TimerTest.java
+END
+FileListBuilderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/kernowforsaxon/!svn/ver/273/kernow/trunk/test/net/sf/kernow/util/FileListBuilderTest.java
+END

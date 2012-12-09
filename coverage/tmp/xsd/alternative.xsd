@@ -1,0 +1,13 @@
+<xs:schema
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    elementFormDefault="qualified">
+
+<xs:element name="foo">
+  <xs:alternative test="@type = 'a'" type="fooTypeA"/>
+</xs:element>
+
+<xs:complexType name="fooTypeA">
+
+</xs:complexType>
+
+</xs:schema>

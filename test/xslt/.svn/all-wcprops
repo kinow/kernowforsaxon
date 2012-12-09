@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/kernowforsaxon/!svn/ver/424/kernow/trunk/test/xslt
+END
+HelloWorld.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/kernowforsaxon/!svn/ver/262/kernow/trunk/test/xslt/HelloWorld.xslt
+END
+xslMessage.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/kernowforsaxon/!svn/ver/256/kernow/trunk/test/xslt/xslMessage.xslt
+END
+Transform with space in the name.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/kernowforsaxon/!svn/ver/256/kernow/trunk/test/xslt/Transform%20with%20space%20in%20the%20name.xslt
+END
+illformed.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/kernowforsaxon/!svn/ver/256/kernow/trunk/test/xslt/illformed.xslt
+END
+initialTemplateAndMode.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/kernowforsaxon/!svn/ver/256/kernow/trunk/test/xslt/initialTemplateAndMode.xslt
+END
+HelloWorld_SA.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/kernowforsaxon/!svn/ver/256/kernow/trunk/test/xslt/HelloWorld_SA.xslt
+END
+XHTML_SA.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/kernowforsaxon/!svn/ver/256/kernow/trunk/test/xslt/XHTML_SA.xslt
+END
+parameter.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/kernowforsaxon/!svn/ver/256/kernow/trunk/test/xslt/parameter.xslt
+END
+identity.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/kernowforsaxon/!svn/ver/256/kernow/trunk/test/xslt/identity.xslt
+END
+simple.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/kernowforsaxon/!svn/ver/256/kernow/trunk/test/xslt/simple.xslt
+END

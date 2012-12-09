@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/kernowforsaxon/!svn/ver/256/kernow/trunk/test/xml/partially-valid
+END
+valid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/kernowforsaxon/!svn/ver/256/kernow/trunk/test/xml/partially-valid/valid.xml
+END
+invalid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/kernowforsaxon/!svn/ver/256/kernow/trunk/test/xml/partially-valid/invalid.xml
+END

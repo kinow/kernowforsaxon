@@ -1,0 +1,27 @@
+Configure_Schema_Aware=Configurer les options Schema Aware
+
+Result_document_validation=Validation des documents en sortie
+
+(validation_errors_are_reported_after_processing_has_completed)=(des erreurs de validation ont été reportées après que le processus ait terminé)
+
+(validate_source_documents)=(valider les documents en entré)
+
+(validate_source_documents_if_a_definition_is_found)=(valider les documents en entré si une définition est trouvée)
+
+(don't_validate_source_documents)=(ne pas valider les documents en entré)
+
+(enabled_by_default_when_SaxonSA_is_detected,_uncheck_to_use_Saxon_Basic)=(activé par défaut quand SaxonSA est détecté, désélectionner pour utiliser Saxon Basic)
+
+Source_document_validation=Validation des documents en entré
+
+Treat_fatal_validation_errors_as_warnings=Traiter les erreurs de validation fatales comme des avertissements
+
+Strict_validation=Validation stricte
+
+Lax_validation=Validation laxiste
+
+Skip_validation=Ignorer la validation
+
+Use_Schema_Aware_Saxon=Utiliser Saxon Schema Aware
+
+Done=Fini

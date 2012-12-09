@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/kernowforsaxon/!svn/ver/424/kernow/trunk/src/net/sf/kernow/internal
+END
+ObservableProgress.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/kernowforsaxon/!svn/ver/256/kernow/trunk/src/net/sf/kernow/internal/ObservableProgress.java
+END
+ProgressObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/kernowforsaxon/!svn/ver/256/kernow/trunk/src/net/sf/kernow/internal/ProgressObserver.java
+END
+CancelObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/kernowforsaxon/!svn/ver/256/kernow/trunk/src/net/sf/kernow/internal/CancelObserver.java
+END
+TimedTransform.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/kernowforsaxon/!svn/ver/256/kernow/trunk/src/net/sf/kernow/internal/TimedTransform.java
+END
+TransformController.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/kernowforsaxon/!svn/ver/424/kernow/trunk/src/net/sf/kernow/internal/TransformController.java
+END
+Cancellable.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/kernowforsaxon/!svn/ver/256/kernow/trunk/src/net/sf/kernow/internal/Cancellable.java
+END
+TimeObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/kernowforsaxon/!svn/ver/256/kernow/trunk/src/net/sf/kernow/internal/TimeObserver.java
+END

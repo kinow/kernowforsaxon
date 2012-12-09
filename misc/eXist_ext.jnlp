@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+" codebase="http://kernowforsaxon.sourceforge.net/jws">
+    <information>
+        <title>eXist extension</title>
+        <vendor>EXIST</vendor>
+    </information>
+    <security>
+        <all-permissions/>
+    </security>
+    <resources>
+        <jar href="lib/exist.jar" download="lazy"/>
+        <jar href="lib/log4j-1.2.14.jar" download="lazy"/>
+        <jar href="lib/xmldb.jar" download="lazy"/>
+        <jar href="lib/xmlrpc-1.2-patched.jar" download="lazy"/>
+    </resources>
+    <component-desc/>
+</jnlp>

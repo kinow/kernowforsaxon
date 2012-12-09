@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="Transform Content" default="transform-sample" basedir=".">
+	<taskdef resource="svntask.properties"/>
+	<property name="publish.dir" value="c:/iconsult"/>
+	<property name="output.dir" value="c:/iconsult/output"/>
+	<property name="input.dir" value="c:/iconsult/input"/>
+	<property name="xslt.dir" value="c:/iconsult/iConsultTransform"/>
+	<property name="temp.dir" value="c:/iconsult/temp"/>
+	<property name="tests.svn" value="svn://elscamw-154221/iconsult/iConsultTestFunctional"/>
+	<property name="content.svn" value="svn://elscamw-154221/iconsult/iConsultContent"/>
+
+	<fail message="Property: 'release.name' not set" unless="release.name"/>
+
+	<target name="transform-sample">
+		<!-- preprocess for 101 -->
+		<antcall target="kernow">
+			<param name="java.classname" value="DirectoryTransform"/>
+			<param name="input.filename" value="${input.dir}/firstconsult/com.firstconsult/1/101"/>
+			<param name="xslt.filename" value="${xslt.dir}/firstconsult/xslt/Preprocess.xslt"/>
+			<param name="output.filename" value="${temp.dir}/${release.name}/preprocess"/>
+			<param name="xslt.params" value='"stubsDoc=${temp.dir}/${release.name}/stubs.xml"'/>
+		</antcall>
+	</target>
+
+	<target name="kernow">
+		<fail message="Property: 'java.classname' not set" unless="java.classname"/>
+		<fail message="Property: 'input.filename' not set" unless="input.filename"/>
+		<fail message="Property: 'xslt.filename' not set" unless="xslt.filename"/>
+		<fail message="Property: 'output.filename' not set" unless="output.filename"/>
+		<fail message="Property: 'xslt.params' not set" unless="output.filename"/>
+		<java classname="net.sf.kernow.${java.classname}" fork="true" failonerror="true">
+			<jvmarg value="-Dkernow.config=${publish.dir}/kernow/kernow.config"/>
+			<classpath>				
+				<pathelement location="${publish.dir}/kernow"/>
+				<fileset dir="${publish.dir}/kernow">
+					<include name="lib/*.jar"/>
+				</fileset>
+			</classpath>
+			<arg value="${input.filename}"/>
+			<arg value="${xslt.filename}"/>
+			<arg value="${output.filename}"/>
+			<arg line="${xslt.params}"/>
+		</java>	
+	</target>
+
+	<target name="kernow-standalone">
+		<fail message="Property: 'java.classname' not set" unless="java.classname"/>
+		<fail message="Property: 'initialtemplate.name' not set" unless="initialtemplate.name"/>
+		<fail message="Property: 'xslt.filename' not set" unless="xslt.filename"/>
+		<fail message="Property: 'output.filename' not set" unless="output.filename"/>
+		<fail message="Property: 'xslt.params' not set" unless="output.filename"/>
+		<java classname="net.sf.kernow.${java.classname}" fork="true" failonerror="true">
+			<jvmarg value="-Dkernow.config=${publish.dir}/kernow/kernow.config"/>
+			<classpath>				
+				<pathelement location="${publish.dir}/kernow"/>
+				<fileset dir="${publish.dir}/kernow">
+					<include name="lib/*.jar"/>
+				</fileset>
+			</classpath>
+			<arg value="${xslt.filename}"/>
+			<arg value="${output.filename}"/>
+			<arg value="${initialtemplate.name}"/>
+			<arg line="${xslt.params}"/>
+		</java>	
+	</target>
+
+</project>

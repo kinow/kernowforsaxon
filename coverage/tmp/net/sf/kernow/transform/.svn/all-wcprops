@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/kernowforsaxon/!svn/ver/442/kernow/trunk/src/net/sf/kernow/transform
+END
+ScheduledXSLT.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/kernowforsaxon/!svn/ver/440/kernow/trunk/src/net/sf/kernow/transform/ScheduledXSLT.java
+END
+ScheduledValidation.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/kernowforsaxon/!svn/ver/426/kernow/trunk/src/net/sf/kernow/transform/ScheduledValidation.java
+END
+CustomURIResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/kernowforsaxon/!svn/ver/442/kernow/trunk/src/net/sf/kernow/transform/CustomURIResolver.java
+END
+ScheduledXML.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/kernowforsaxon/!svn/ver/399/kernow/trunk/src/net/sf/kernow/transform/ScheduledXML.java
+END
+Params.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/kernowforsaxon/!svn/ver/423/kernow/trunk/src/net/sf/kernow/transform/Params.java
+END
+CallableCachedTransform.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/kernowforsaxon/!svn/ver/424/kernow/trunk/src/net/sf/kernow/transform/CallableCachedTransform.java
+END
+CustomMessageListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/kernowforsaxon/!svn/ver/436/kernow/trunk/src/net/sf/kernow/transform/CustomMessageListener.java
+END
+DirectoryTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/kernowforsaxon/!svn/ver/436/kernow/trunk/src/net/sf/kernow/transform/DirectoryTransformer.java
+END
+SwitchSetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/kernowforsaxon/!svn/ver/427/kernow/trunk/src/net/sf/kernow/transform/SwitchSetter.java
+END
+CustomEntityResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/kernowforsaxon/!svn/ver/440/kernow/trunk/src/net/sf/kernow/transform/CustomEntityResolver.java
+END
+CustomErrorListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/kernowforsaxon/!svn/ver/436/kernow/trunk/src/net/sf/kernow/transform/CustomErrorListener.java
+END
+TransformTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/kernowforsaxon/!svn/ver/424/kernow/trunk/src/net/sf/kernow/transform/TransformTask.java
+END
+TransformControllerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/kernowforsaxon/!svn/ver/424/kernow/trunk/src/net/sf/kernow/transform/TransformControllerImpl.java
+END
+SingleFileTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/kernowforsaxon/!svn/ver/436/kernow/trunk/src/net/sf/kernow/transform/SingleFileTransformer.java
+END
+CachedStylesheetTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/kernowforsaxon/!svn/ver/436/kernow/trunk/src/net/sf/kernow/transform/CachedStylesheetTransformer.java
+END

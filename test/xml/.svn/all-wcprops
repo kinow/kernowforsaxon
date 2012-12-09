@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/kernowforsaxon/!svn/ver/424/kernow/trunk/test/xml
+END
+videos with space.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/kernowforsaxon/!svn/ver/256/kernow/trunk/test/xml/videos%20with%20space.xml
+END
+videos.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/kernowforsaxon/!svn/ver/256/kernow/trunk/test/xml/videos.xml
+END
+illformed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/kernowforsaxon/!svn/ver/256/kernow/trunk/test/xml/illformed.xml
+END
+videos-invalid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/kernowforsaxon/!svn/ver/256/kernow/trunk/test/xml/videos-invalid.xml
+END

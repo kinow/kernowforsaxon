@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+
+  <xs:element-incorrect name="result">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="video_template"/>
+        <xs:element ref="actors"/>
+        <xs:element ref="videos"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element-incorrect>
+
+</xs:schema>

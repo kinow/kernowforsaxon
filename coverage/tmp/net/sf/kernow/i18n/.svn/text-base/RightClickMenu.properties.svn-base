@@ -1,0 +1,19 @@
+# Sample ResourceBundle properties file
+
+Cut=Cut
+
+Clear=Clear
+
+Remove_All=Remove All
+
+Remove=Remove
+
+Select_All=Select All
+
+Paste=Paste
+
+Copy=Copy
+
+Insert=Insert
+
+Format_XML=Format XML

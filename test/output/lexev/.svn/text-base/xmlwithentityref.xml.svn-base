@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><?internalEnt_nbsp " "?><foo>
+    <lexev:comment xmlns:lexev="http://andrewjwelch.com/lexev/"> this is a sample input for lexev tests </lexev:comment>
+    <lexev:entity xmlns:lexev="http://andrewjwelch.com/lexev/" name="apos">'</lexev:entity>hello<lexev:entity xmlns:lexev="http://andrewjwelch.com/lexev/" name="nbsp"> </lexev:entity>world<lexev:entity xmlns:lexev="http://andrewjwelch.com/lexev/" name="apos">'</lexev:entity><lexev:cdata xmlns="http://andrewjwelch.com/lexev/" xmlns:lexev="http://andrewjwelch.com/lexev/"> some cdata </lexev:cdata>
+</foo>

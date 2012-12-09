@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/kernowforsaxon/!svn/ver/426/kernow/trunk/test/net/sf/kernow/schema
+END
+SchemaValidatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/kernowforsaxon/!svn/ver/273/kernow/trunk/test/net/sf/kernow/schema/SchemaValidatorTest.java
+END
+XSD11SchemaValidatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/kernowforsaxon/!svn/ver/426/kernow/trunk/test/net/sf/kernow/schema/XSD11SchemaValidatorTest.java
+END

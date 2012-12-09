@@ -1,0 +1,152 @@
+# Titles of tabs seems to be missing:
+
+Single_File=Einzeldatei
+
+Directory=Ordner
+
+Standalone=Eigenst\u00E4ndiges
+
+Validation=Validierung
+
+XQuery_Sandbox=XQuery Sandbox
+
+[_Enter_query_here_]=[ Hier Abfrage eingeben ]
+
+Cancelled.=Abgebrochen.
+
+Operation_cancelled_by_user.=Operation wurde vom Anwender abgebrochen.
+
+Please_select_an_output_directory=Bitte w\u00E4hlen Sie einen Ausgabe-Ordner
+
+Please_select_a_stylesheet=Bitte w\u00E4hlen Sie ein Stylesheet
+
+Please_select_a_source_XML_directory=Bitte w\u00E4hlen Sie den Quellordner mit XML-Dateien
+
+No_named_templates_found\!=Keine benannten Templates gefunden\!
+
+Error\!=Fehler\!
+
+Initial_template_not_set\!=\\nAnfangs-Template nicht gesetzt\!\\n
+
+Please_select_an_XML_Schema_/_Relax_NG_schema_to_check=Bitte w\u00E4hlen Sie das zu pr\u00FCfende XML Schema/Relax NG Schema
+
+Starting_directory_validate...=Beginn der Ordner-Validierung...
+
+Please_select_a_schema_to_validate_the_XML_file_against=Bitte w\u00E4hlen Sie das Schema, gegen das die XML-Datei validiert werden soll
+
+Please_select_an_XML_file_or_directory_to_validate=Bitte w\u00E4hlen Sie die XML-Datei oder den Ordner, der validiert werden soll
+
+Working...=In Arbeit...
+
+Target_not_set\!=Ziel nicht festgelegt\!
+
+Buildfile_not_set\!=Buildfile nicht festgelegt\!
+
+XQuery_Sandbox=XQuery Sandbox
+
+About_Kernow=\u00DCber Kernow
+
+Support_Kernow=Kernow unterst\u00FCtzen
+
+Show_Help=\u00D6ffne Kernow-Website
+
+Help=Hilfe
+
+Configure_Schema_Aware=Einstellungen Saxon-SA
+
+Get_Schema_Aware=Saxon-SA bekommen
+
+Schema_Aware=Schema-Unterst\u00FCtzung
+
+Options=Einstellungen Kernow
+
+Set_Saxon_Switches=Einstellungen Saxon
+
+Configuration=Konfiguration
+
+Exit=Beenden
+
+File=Datei
+
+Clear=L\u00F6schen
+
+Kernow=Kernow
+
+Cancel_the_current_running_transformation=Die aktuelle Transformation abbrechen
+
+Cancel=Abbrechen
+
+Message_Level=Message Level
+
+Properties=Properties
+
+Target=Target
+
+Ant_buildfile=Ant Buildfile
+
+Batch=Ant Batch
+
+Namespaces=Namespaces
+
+Execute_Query=XSLT/XQuery ausf\u00FChren
+
+[type_query_here]=[ Hier Abfrage eingeben ]
+
+Report_failures_only=Nur Fehler ausgeben
+
+Input_is_a_directory=Quelle ist ein Ordner
+
+Check_Schema=Pr\u00FCfe Schema
+
+Validate=Validiere
+
+XML_Schema=XML Schema
+
+XML_File(s)=XML-Datei(en)
+
+XML_Schema_Validation=XML Schema Validierung
+
+Auto-populate_the_available_initial_templates=Liste der Anfangs-Templates automatisch f\u00FCllen
+
+auto=auto
+
+Output=Ausgabe
+
+Initial_Template_(XSLT_only)\:=Anfangs-Template (nur bei XSLT)\:
+
+XSLT/_XQuery=XSLT/XQuery
+
+Standalone_XSLT_/_XQuery=Eigenst\u00E4ndiges XSLT/XQuery
+
+Stop_when_an_error_occurs=Bei Fehler abbrechen
+
+Recurse_subdirectories=Unterordner ber\u00FCcksichtigen
+
+Directory_Transformation=Ordner-Transformation
+
+Output_Folder=Ausgabeordner
+
+Input_Folder=Quellordner
+
+Send_output_to_file=Ausgabe in Datei speichern
+
+Params=Parameter
+
+Single_File_Transformation=Einzeldatei-Transformation
+
+XML_File=XML-Datei
+
+Run=Ausf\u00FChren
+
+OutputFile=Ausgabedatei
+
+Stylesheet=Stylesheet
+Run_a_stylesheet_against_a_directory=Ein Stylesheet auf einen Ordner von Dateien anwenden
+Run_a_standalone_stylesheet_or_query=Ein unabh\u00E4ngiges Stylesheet bzw. XQuery verwenden
+Run_a_stylesheet_against_a_single_file=Ein Stylesheet auf eine Datei anwenden
+Run_a_query_written_directly_within_Kernow=Eine mit Kernow geschriebene Abfrage ausf\u00FChren
+Validate_XML_document_or_directory_against_an_XML_Schema,_and_check_schema_validity=Eine XML-Datei oder alle XML-Dateien in einem Verzeichnis gegen ein Schema validieren sowie das Schema selbst validieren
+Output_File=Ausgabedatei
+XSLT_/_XQuery=XSLT-/XQuery-Datei
+Initial_Template_(XSLT_only)=Start-Template (bei XSLT)
+XML_File_/_Dir=XML-Datei/Ordner

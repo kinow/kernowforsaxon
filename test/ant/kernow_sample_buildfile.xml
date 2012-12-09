@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="Kernow Sample Buildfile" default="run-directory-transform">
+	
+	<property name="kernow.home" value="c:\kernow"/>
+	<property name="release.name" value="March-2007"/>
+
+	<property name="input.dir" value="${kernow.home}\test\xml"/>
+	<property name="xslt" value="${kernow.home}\test\xslt\identity.xslt"/>
+	<property name="output.dir" value="${kernow.home}\test\output"/>
+	<property name="xslt.params" value=" "/>
+	
+	<target name="run-single-file-transform">
+		<antcall target="kernow-singleFile">
+			<param name="input.filename" value="${input.dir}"/>
+			<param name="xslt.filename" value="${xslt}"/>
+			<param name="output.filename" value="${output.dir}"/>
+			<param name="xslt.params" value="${xslt.params}"/>
+		</antcall>
+	</target>
+	
+	<target name="run-directory-transform">
+		<antcall target="kernow-directory">
+			<param name="input.filename" value="${input.dir}"/>
+			<param name="xslt.filename" value="${xslt}"/>
+			<param name="output.filename" value="${output.dir}/${release.name}"/>
+			<param name="xslt.params" value="${xslt.params}"/>
+		</antcall>
+	</target>	
+	
+	<target name="kernow-singleFile">
+	  <fail message="Property: 'input.filename' not set" unless="input.filename"/>
+		<fail message="Property: 'xslt.filename' not set" unless="xslt.filename"/>
+		<fail message="Property: 'output.filename' not set" unless="output.filename"/>
+		<fail message="Property: 'xslt.params' not set" unless="xslt.params"/>
+		<java classname="net.sf.kernow.SingleFileTransform" fork="true" failonerror="true">
+			<jvmarg value="-Dkernow.config=${kernow.home}/kernow.config"/>
+			<classpath>				
+				<pathelement location="${kernow.home}"/>
+				<fileset dir="${kernow.home}">
+					<include name="lib/*.jar"/>
+				</fileset>
+			</classpath>
+			<arg value="${input.filename}"/>			
+			<arg value="${xslt.filename}"/>
+			<arg value="${output.filename}"/>
+			<arg line="${xslt.params}"/>
+		</java>	
+	</target>
+	
+	
+	<target name="kernow-directory">
+		<fail message="Property: 'input.filename' not set" unless="input.filename"/>
+		<fail message="Property: 'xslt.filename' not set" unless="xslt.filename"/>
+		<fail message="Property: 'output.filename' not set" unless="output.filename"/>
+		<fail message="Property: 'xslt.params' not set" unless="xslt.params"/>
+		<java classname="net.sf.kernow.DirectoryTransform" fork="true" failonerror="true">
+			<jvmarg value="-Dkernow.config=${kernow.home}/kernow.config"/>
+			<classpath>				
+				<pathelement location="${kernow.home}"/>
+				<fileset dir="${kernow.home}">
+					<include name="lib/*.jar"/>
+				</fileset>
+			</classpath>
+			<arg value="${input.filename}"/>
+			<arg value="${xslt.filename}"/>
+			<arg value="${output.filename}"/>
+			<arg line="${xslt.params}"/>
+		</java>	
+	</target>
+
+	<target name="kernow-standalone">
+		<fail message="Property: 'initialtemplate.name' not set" unless="initialtemplate.name"/>
+		<fail message="Property: 'xslt.filename' not set" unless="xslt.filename"/>
+		<fail message="Property: 'output.filename' not set" unless="output.filename"/>
+		<fail message="Property: 'xslt.params' not set" unless="xslt.params"/>
+		<java classname="net.sf.kernow.StandaloneTransform" fork="true" failonerror="true">
+			<jvmarg value="-Dkernow.config=${kernow.home}/kernow.config"/>
+			<classpath>				
+				<pathelement location="${kernow.home}"/>
+				<fileset dir="${kernow.home}">
+					<include name="lib/*.jar"/>
+				</fileset>
+			</classpath>
+			<arg value="${xslt.filename}"/>
+			<arg value="${output.filename}"/>
+			<arg value="${initialtemplate.name}"/>
+			<arg line="${xslt.params}"/>
+		</java>	
+	</target>
+
+</project>
